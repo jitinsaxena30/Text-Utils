@@ -1,0 +1,24 @@
+.textForm{
+    /* margin-top: -16px; */
+    padding-top: 20px;
+    height: 91vh;
+}
+
+.form-check-input{
+    outline-width: 0;
+}
+
+.form-check-input:checked{
+    background-color: #00AD30;
+}
+
+.alert{
+    width:500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fade{
+    animation: ease-in-out 2;
+}
+

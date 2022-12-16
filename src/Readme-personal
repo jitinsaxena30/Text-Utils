@@ -1,0 +1,7 @@
+
+exact is used beacuse if we dont use react it will render matching string
+ex:
+if /users  ->comp1
+/users/home -> comp2
+
+if we dont use exact, if we try to open /users/home it will render comp1 only
